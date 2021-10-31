@@ -1,0 +1,14 @@
+#main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h1 {
+  margin-bottom: 0;
+}
+#survey-form {
+  width: 400px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
